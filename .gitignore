@@ -1,0 +1,6 @@
+*.pyc
+*.txt
+*.md
+*.xml
+*.idea
+venv/*
